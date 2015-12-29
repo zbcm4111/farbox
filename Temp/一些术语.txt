@@ -1,0 +1,31 @@
+---
+date: 2015-12-28 14:03
+status: public
+title: 一些术语
+---
+
+MPR(material requirement planning)物料需求计划
+
+MRPⅡ（manufacturing resource planning）制造企业资源计划
+
+ERP(enterprise resource planning)企业资源计划
+
+MIS(management information system)管理信息系统
+
+OA(office automation)办公自动化
+
+BRP(business process reengineering)业务流程优化
+
+CRM(customer relationship management)客房关系管理
+
+EIP(enterprise information portal)企业信息门户
+
+EDI(electronic data interchange)电子数据交换
+
+HRM(human resource management)人力资源管理
+
+KM(knowledge management)知识管理
+
+SCM(supply chain management)供应链管理
+
+EAI(enterprise application integration)企业应用集成
